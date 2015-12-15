@@ -1,0 +1,22 @@
+{
+  "name": "zepto.lazyload.js",
+  "main": "zepto.lazyload.js",
+  "homepage": "https://github.com/WuChu/zepto.lazyload.js",
+  "authors": [
+    "wuchu <wuchu@baidu.com>"
+  ],
+  "description": "zepto.lazyload.js",
+  "moduleType": [],
+  "keywords": [
+    "lazyload",
+    "zepto"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
