@@ -5,6 +5,7 @@
   "authors": [
     "wuchu <wuchu@baidu.com>"
   ],
+  "version": "0.0.1",
   "description": "zepto.lazyload.js",
   "moduleType": [],
   "keywords": [
