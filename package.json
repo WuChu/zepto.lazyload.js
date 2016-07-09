@@ -1,5 +1,5 @@
 {
-  "name": "zepto.lazyload.js",
+  "name": "zepto.lazyload",
   "version": "1.0.0",
   "description": "## Just changed from jquery.lazyload.js",
   "main": "zepto.lazyload.js",
